@@ -1,0 +1,5 @@
+Date      Time  From  To Carrier Price 
+05/12/2020 15:35 IST ADA Pegasus    101.0 
+01/12/2020 10:25 ANK IST THY    235.0 
+10/12/2020 11:30 JED DXB SV    150.0 
+02/12/2020 00:00 jed ruh SV    150.0 
